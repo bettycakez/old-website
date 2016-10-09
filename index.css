@@ -4,7 +4,7 @@
 body {
   height:100vh !important;
   background-image: url('./background.png') !important;
-  background-repeat: no repeat;
+  background-repeat: no-repeat;
 }
 .content {
   text-align: center;
@@ -22,7 +22,7 @@ body {
 }
 
 img {
-  max-width: 30%;
+  max-width: 100%;
 }
 
 .title {
