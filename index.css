@@ -22,11 +22,11 @@ body {
 }
 
 img {
-  max-width: 100%;
+  max-width: 30%;
 }
 
 .title {
-  color: white;
+  color: black;
   font-size: 6em;
   font-weight: 400;
   font-family: 'Open Sans', sans-serif;
