@@ -2,7 +2,6 @@
 //dark red FF392F
 
 body {
-  height:100vh !important;
   background-image: url('./background.png') !important;
   background-size: 100%;
   background-repeat: no-repeat;
