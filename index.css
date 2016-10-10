@@ -49,8 +49,16 @@ img {
   font-weight: 400;
 }
 
-.list 
-a {
+.list a {
+  font-size:1em;
+  letter-spacing: 10px;
+  font-family: 'Baskerville', sans-serif;
+  text-decoration: none;
+  color: black; 
+  font-weight: 400;
+}
+
+.list li {
   font-size:1em;
   letter-spacing: 10px;
   font-family: 'Baskerville', sans-serif;
