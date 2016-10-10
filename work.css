@@ -1,1 +1,94 @@
+//red FF5148
+//dark red FF392F
 
+body {
+  background-image: url('./background.png') !important;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.content {
+  text-align: center;
+  position: fixed;
+	top: 40%;
+	left: 50%;
+	transform: translate(-50%, -40%);
+	-webkit-transform: translate(-50%, -40%);
+	-ms-transform: translate(-50%, -40%);
+  background-color: white; 
+  position: absolute;
+  padding: 25px 25px 25px;
+	padding-top: 25px;
+	padding-right: 25px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+  border-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius:10px;
+	border-bottom-left-radius: 10px;
+  opacity: .77;
+}
+
+.logo {
+  margin: auto;
+  width: 500px;
+}
+
+img {
+  max-width: 100%;
+}
+
+.name {
+  color: black;
+  font-size: 4em;
+  font-weight: 400;
+  font-family: 'Baskerville', sans-serif;
+}
+
+.caption {
+  color: black;
+  font-size: 1em;
+  font-weight: 400;
+  font-family: 'Baskerville', sans-serif;
+}
+
+.list {
+  font-size: 1em;
+  font-family: 'Baskerville', sans-serif;
+  text-decoration: none; 
+  font-weight: 400;
+  margin: 20px 0px 0px;
+	margin-top: 20px;
+	margin-right:0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+  padding:0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+  text-align: center;
+  list-style-type: none;
+}
+
+.list a {
+  font-size: 1em;
+  font-family: 'Baskerville', sans-serif;
+  text-decoration: none;
+  color: black; 
+  font-weight: 400;
+}
+
+.list a:hover, .list a:active {
+	color: #86c0b6;
+}
+
+.list li {
+  font-size: 1em;
+  font-family: 'Baskerville', sans-serif;
+  text-decoration: none;
+  color: black; 
+  font-weight: 400;
+  margin: 2px 0px;
+}
