@@ -39,3 +39,12 @@ img {
   font-weight: 400;
   font-family: 'Baskerville', sans-serif;
 }
+
+.list {
+  font-size:1em;
+  letter-spacing: 10px;
+  font-family: 'Baskerville', sans-serif;
+  text-decoration: none;
+  color: black; 
+  font-weight: 400;
+}
