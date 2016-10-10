@@ -60,7 +60,7 @@ img {
   color: black; 
   font-weight: 400;
   margin: 25px auto 0px;
-  color: 
+  list-style-type: none;
 }
 
 .list a {
