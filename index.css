@@ -58,6 +58,10 @@ img {
   font-weight: 400;
 }
 
+.list a:hover, .list a:active {
+	color: #51d8c5;
+}
+
 .list li {
   font-size:1em;
   letter-spacing: 10px;
