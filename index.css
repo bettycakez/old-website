@@ -42,7 +42,7 @@ img {
 
 .list {
   font-size:1em;
-  letter-spacing: 10px;
+  letter-spacing: 0.1px;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
