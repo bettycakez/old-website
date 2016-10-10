@@ -48,13 +48,13 @@ img {
 
 .caption {
   color: black;
-  font-size: 2em;
+  font-size: 1em;
   font-weight: 400;
   font-family: 'Baskerville', sans-serif;
 }
 
 .list {
-  font-size: 2em;
+  font-size: 1em;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
@@ -64,7 +64,7 @@ img {
 }
 
 .list a {
-  font-size: 2em;
+  font-size: 1em;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
@@ -76,7 +76,7 @@ img {
 }
 
 .list li {
-  font-size: 2em;
+  font-size: 1em;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
