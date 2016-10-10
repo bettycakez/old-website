@@ -30,10 +30,10 @@ img {
   font-size: 4em;
   font-weight: 400;
   font-family: 'Baskerville', sans-serif;
+  text-transform:uppercase;
 }
 
 .caption {
-  letter-spacing: 0.0625px;
   color: black;
   font-size: 1.5em;
   font-weight: 400;
@@ -42,7 +42,6 @@ img {
 
 .list {
   font-size:1.5em;
-  letter-spacing: 0.0625px;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
@@ -53,7 +52,6 @@ img {
 
 .list a {
   font-size:1.5em;
-  letter-spacing: 0.0625px;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
@@ -66,7 +64,6 @@ img {
 
 .list li {
   font-size:1em;
-  letter-spacing: 0.0625px;
   font-family: 'Baskerville', sans-serif;
   text-decoration: none;
   color: black; 
