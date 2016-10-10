@@ -17,8 +17,8 @@ body {
 	-ms-transform: translate(-50%, -40%);
   background-color: white; 
   position: absolute;
-  padding: 30px 25px 25px;
-	padding-top: 30px;
+  padding: 25px 25px 25px;
+	padding-top: 25px;
 	padding-right: 25px;
 	padding-bottom: 25px;
 	padding-left: 25px;
@@ -59,7 +59,17 @@ img {
   text-decoration: none;
   color: black; 
   font-weight: 400;
-  margin: 25px auto 0px;
+  margin: 20px 0px 0px;
+	margin-top: 20px;
+	margin-right:0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+  padding:0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+  text-align: center;
   list-style-type: none;
 }
 
