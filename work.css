@@ -10,7 +10,7 @@ body {
 .content {
   text-align: center;
   position: fixed;
-	top: 40%;
+	top: 2%;
 	left: 50%;
 	transform: translate(-50%, -40%);
 	-webkit-transform: translate(-50%, -40%);
