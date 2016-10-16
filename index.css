@@ -94,3 +94,38 @@ img {
   font-weight: 400;
   margin: 2px 0px;
 }
+
+div {
+  font-size: 0;
+}
+
+b {
+  font-size: 16px; 
+  display: inline-block;
+  margin-bottom: 8px;
+  width: calc(50% - 4px);
+  margin-right: 8px;
+}
+
+b:nth-of-type(2n) {
+  margin-right: 0;
+}
+
+@media screen and (min-width: 50em) {
+  b {
+    width: calc(25% - 6px);
+  }
+
+  b:nth-of-type(2n) {
+    margin-right: 8px;
+  }
+
+  b:nth-of-type(4n) {
+    margin-right: 0;
+  }
+}
+
+div {
+  display: flex;
+  flex-wrap: wrap;
+}
