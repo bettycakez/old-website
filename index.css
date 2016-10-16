@@ -1,10 +1,10 @@
 body {
   background-color: #e5f0f2;
 }
-	
+
 
 .background {
-  background-image: url('./background_banner.png') !important;
+  background-image: url('./images/background_banner.png') !important;
   background-size: 1920px;
   background-repeat: no-repeat;
   height: 420px;
@@ -42,6 +42,7 @@ img {
 }
 
 .name {
+  text-align: center;
   color: black;
   font-size: 4em;
   font-weight: 400;
@@ -95,37 +96,6 @@ img {
   margin: 2px 0px;
 }
 
-div {
-  font-size: 0;
-}
-
-a {
-  font-size: 16px; 
-  display: inline-block;
-  margin-bottom: 8px;
-  width: calc(50% - 4px);
-  margin-right: 8px;
-}
-
-a:nth-of-type(n) {
-  margin-right: 0;
-}
-
-@media screen and (min-width: 50em) {
-  a {
-    width: calc(25% - 6px);
-  }
-
-  a:nth-of-type(n) {
-    margin-right: 8px;
-  }
-
-  a:nth-of-type(2n) {
-    margin-right: 0;
-  }
-}
-
-div {
-  display: flex;
-  flex-wrap: wrap;
+.links {
+  margin-bottom: 3%;
 }
