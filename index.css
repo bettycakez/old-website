@@ -2,7 +2,6 @@ body {
   background-color: #e5f0f2;
 }
 
-
 .background {
   background-image: url('./images/background_banner.png') !important;
   background-size: 1920px;
@@ -98,4 +97,9 @@ img {
 
 .links {
   margin-bottom: 3%;
+}
+
+.row {
+  padding-top: 0.9375rem;
+  padding-bottom: 0.9375rem;
 }
