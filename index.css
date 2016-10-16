@@ -99,7 +99,7 @@ div {
   font-size: 0;
 }
 
-b {
+a {
   font-size: 16px; 
   display: inline-block;
   margin-bottom: 8px;
@@ -107,20 +107,20 @@ b {
   margin-right: 8px;
 }
 
-b:nth-of-type(n) {
+a:nth-of-type(n) {
   margin-right: 0;
 }
 
 @media screen and (min-width: 50em) {
-  b {
+  a {
     width: calc(25% - 6px);
   }
 
-  b:nth-of-type(n) {
+  a:nth-of-type(n) {
     margin-right: 8px;
   }
 
-  b:nth-of-type(2n) {
+  a:nth-of-type(2n) {
     margin-right: 0;
   }
 }
