@@ -83,7 +83,7 @@ img {
   font-weight: 400;
 }
 
-.list a:hover, .list a:active {
+.list a:hover {
 	color: #86c0b6;
 }
 
