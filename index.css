@@ -102,4 +102,7 @@ img {
 .row {
   padding-top: 0.9375rem;
   padding-bottom: 0.9375rem;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 0.50m;
+  color: black;
 }
