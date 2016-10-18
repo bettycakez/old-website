@@ -42,7 +42,11 @@ figcaption {
 
 img {
   max-width: 100%;
-  border: 3px solid #808080 !important;
+}
+
+.rowimg {
+  max-width: 100%;
+  border: 5px solid #808080 !important;
 }
 
 .name {
@@ -114,6 +118,6 @@ img {
 
 .socialIcons {
    text-align: center;
-   border: 0px;
+   border: 0px; !important
    
 }
