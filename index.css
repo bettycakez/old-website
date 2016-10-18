@@ -115,7 +115,8 @@ figcaption {
 .socialIcons {
    text-align: center;
    border: 0px; !important
-   width: 50px;
+   width: 100%; !important
+   max-width: 50px;
    
    
 }
