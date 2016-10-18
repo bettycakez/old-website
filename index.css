@@ -40,10 +40,6 @@ figcaption {
   width: 500px;
 }
 
-img {
-  max-width: 100%;
-}
-
 .rowimg {
   max-width: 100%;
   border: 5px solid #808080 !important;
@@ -119,5 +115,7 @@ img {
 .socialIcons {
    text-align: center;
    border: 0px; !important
+   width: 50px;
+   
    
 }
