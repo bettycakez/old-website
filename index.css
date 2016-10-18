@@ -113,10 +113,10 @@ figcaption {
 }
 
 .socialIcons {
-   text-align: center;
+   text-align: center; !important
    border: 0px; !important
    width: 100%; !important
-   max-width: 50px;
+   max-width: 50px; !important
    
    
 }
