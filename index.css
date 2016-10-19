@@ -156,11 +156,11 @@ ul li a:hover, ul li a:focus {
   font-weight: 400;
   margin: 2px 0px;
   padding-bottom: 25px;
+  padding-top: 25px
 }
 
 .inkseries_p {
   text-align: center;
-  padding-top: 0.9375rem;
   padding-bottom: 0.9375rem;
   color: black;
   font-family: 'Poppins', sans-serif;
