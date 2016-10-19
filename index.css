@@ -127,3 +127,12 @@ figcaption {
   font-weight: 400;
   font-family: 'Lobster', serif;
 }
+
+.footer{
+  font-size: 0.8em;
+  font-family: 'Poppins', sans-serif;
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+  margin: 2px 0px;
+}
