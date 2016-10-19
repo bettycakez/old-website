@@ -40,11 +40,6 @@ figcaption {
   width: 500px;
 }
 
-.rowimg {
-  max-width: 100%;
-  border: 5px solid #808080 !important;
-}
-
 .name {
   text-align: center;
   color: black;
@@ -122,3 +117,6 @@ figcaption {
    
    
 }
+
+//*max-width: 100%;
+  border: 5px solid #808080 !important;
