@@ -82,10 +82,6 @@ figcaption {
   font-weight: 400;
 }
 
-.list a:hover {
-	color: #86c0b6;
-}
-
 .list li {
   font-size: 1em;
   font-family: 'Poppins', sans-serif;
@@ -145,4 +141,11 @@ p {
   font-size: 2em;
   font-weight: 400;
   font-family: 'Lobster', serif;
+}
+
+.email {
+}
+
+ul li a:hover, ul li a:focus {
+ color: #86bfb7;
 }
