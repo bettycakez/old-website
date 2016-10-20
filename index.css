@@ -144,7 +144,7 @@ p {
 }
 
 a:hover {
- color: #86bfb7;
+ color: #86bfb7 !important;
 }
 
 .inkseries {
