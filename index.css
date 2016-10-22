@@ -78,7 +78,6 @@ figcaption {
   font-size: 1em;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  color: black;
   font-weight: 400;
 }
 
@@ -86,13 +85,13 @@ figcaption {
   font-size: 1em;
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  color: black;
   font-weight: 400;
   margin: 2px 0px;
 }
 
 .links {
   margin-bottom: 3%;
+  color: black;
 }
 
 .row {
