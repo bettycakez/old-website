@@ -115,6 +115,10 @@ figcaption {
   border: 1px solid black !important;
 }
 
+.blog-img:hover {
+    border: 5px solid black !important;
+}
+
 .row-title{
   text-align: center;
   color: black;
