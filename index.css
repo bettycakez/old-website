@@ -125,11 +125,11 @@ figcaption {
 
 .blog-img {
   max-width: 100%;
-  border: 5px solid black !important;
+  border: 3px solid black !important;
 }
 
 .blog-img:hover {
-    border: 5px solid #7eb1c9 !important;
+    border: 3px solid #7eb1c9 !important;
 }
 
 .row-title{
